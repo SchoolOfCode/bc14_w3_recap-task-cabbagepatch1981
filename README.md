@@ -2,7 +2,9 @@
 
 ## Your own site all about you
 
-Your challenge is to design a website all about the most amazing person: YOU! You might be tempted to just make a HTML version of a boring old CV... Don't! Think about your audiences/users (likely to be employers, other developers, etc), create your personas, build your user stories, and design a user experience which really helps your audience achieve their goals.
+Your challenge is to design a website all about the most amazing person: YOU! You might be tempted to just make a HTML version of a boring old CV... Don't! 
+
+Think about your audiences/users (likely to be employers, other developers, etc), create your personas, build your user stories, and design a user experience which really helps your audience achieve their goals.
 
 Follow the Design Thinking Process and UX/UI planning we've covered this week. Be sure to document (notes, screenshots, etc.) each stage of your planning in this repository before you build, including:
 
